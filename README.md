@@ -1,7 +1,7 @@
 <br>
 <a href='#'>
 <p align="center">
-   <img width="100" src="https://cdn.discordapp.com/attachments/1221526797255180289/1224283748728705085/2570575.png?ex=66277a17&is=66262897&hm=70fb8b4df6952aca05c7ea4ae97334cb6d012518bf5950fb401ff6e575e424b7&" alt="Python File Icon">
+   <img width="100" src="./python-logo.png">
 </p>
 </a>
 
